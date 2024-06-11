@@ -19,7 +19,7 @@ img {
   display: inline-block;
   max-width: 100%;
   max-height: 100%;
-  object-fit: contain;
+ /* object-fit: contain;*/
 }
 ul {
   list-style: none;
@@ -42,11 +42,6 @@ button {
   align-items: center;
 }
 
-.app__img {
-  width: 100%; 
-  height: auto;
-  
-  }
 .app__title {
   text-align: center;
   padding: 20px;

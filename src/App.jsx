@@ -34,7 +34,7 @@ function App() {
       <>
       <div className='app__banner'>
         <figure className='app__img'>
-          <img src="https://s3-alpha-sig.figma.com/img/2838/9946/263f7612d0101b6aa67c8b9f233f19fb?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ik09mT7QHBHnqwmabvHEwaqxn182JTEuKIlYkmaCNG5HXWu0SkHmf8-ltiFRH4yj2gZeWRxQOQj~UeLR6DHBnyls6jlEf9fZQX0p-rJ0Dlw3grsfIOVf8Z7x~BRaaG6qWNix4wYkSI-YXQTCJky-~2viIi35J8P6LR52v34YGhL61IObeJPGFRGjBFpGw6UK-uYAKSSJqAUa6T-cBoPuGoDuoO-LMRmsnRekX7DY8lpQZRJ-m-vJoLw33BVdHZM~YIwjq7Hugco5YckL3d2f1dsmQMzKC8wM3TVustD7hp1McrKuOlwXtIZp2j6~k7lDDlKSE~L-aM3X~mN6O2Mr0Q__"  width="900" height="200" alt="RickAndMorty image" />
+          <img src="https://s3-alpha-sig.figma.com/img/2838/9946/263f7612d0101b6aa67c8b9f233f19fb?Expires=1719187200&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=Ik09mT7QHBHnqwmabvHEwaqxn182JTEuKIlYkmaCNG5HXWu0SkHmf8-ltiFRH4yj2gZeWRxQOQj~UeLR6DHBnyls6jlEf9fZQX0p-rJ0Dlw3grsfIOVf8Z7x~BRaaG6qWNix4wYkSI-YXQTCJky-~2viIi35J8P6LR52v34YGhL61IObeJPGFRGjBFpGw6UK-uYAKSSJqAUa6T-cBoPuGoDuoO-LMRmsnRekX7DY8lpQZRJ-m-vJoLw33BVdHZM~YIwjq7Hugco5YckL3d2f1dsmQMzKC8wM3TVustD7hp1McrKuOlwXtIZp2j6~k7lDDlKSE~L-aM3X~mN6O2Mr0Q__"  width="2000" height="350" alt="RickAndMorty image" />
         </figure>
       </div>
         <form className='app__form' onSubmit={handleSumit}>
